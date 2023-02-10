@@ -1,0 +1,13 @@
+body{
+    background: blue
+}
+#fundo{
+    text-align: center;
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    margin: 0 auto;
+    -webkit-box-shadow: 18px 18px 15px -5px rgba(0,0,0,0.67);
+-moz-box-shadow: 18px 18px 15px -5px rgba(0,0,0,0.67);
+box-shadow: 18px 18px 15px -5px rgba(0,0,0,0.67);
+}
